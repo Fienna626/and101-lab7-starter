@@ -34,7 +34,8 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-![Lab8.png]
+![Lab8.png]<img width="1080" height="2400" alt="Lab 8" src="https://github.com/user-attachments/assets/09fd8efe-28c1-4f63-a0cc-19a512133ad0" />
+
 
 GIF created with **ScreentoGif**
 
