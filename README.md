@@ -34,7 +34,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-![Activiicties for fun :D](Lab8.png)
+![Lab8.png]
 
 GIF created with **ScreentoGif**
 
